@@ -1,3 +1,37 @@
+## 課題{04} -{チャットアプリ}-
+
+Line風チャットアプリ（react作成）
+
+## 課題内容（どんな作品か）
+
+Googleアカウント認証でユーザー区別ができるLine風のチャットアプリ
+
+# 工夫した点・こだわった点
+
+■reactを使ってWEBサイトを作成した点
+■Google認証機能を利用してlineトーク内で話者を区別できるようにしたこと
+
+# 質問・疑問（あれば）
+
+# その他（感想、シェアしたいことなんでも）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
